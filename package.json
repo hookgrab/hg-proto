@@ -1,0 +1,25 @@
+{
+  "name": "hg-proto",
+  "version": "1.0.0",
+  "description": "Protobuf definitions for hookgrab",
+  "main": "index.js",
+  "files": [
+    "protobuf/**/*.proto",
+    "gen/ts/**/*.ts"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hookgrab/hg-proto.git"
+  },
+  "keywords": [
+    "protobuf",
+    "go",
+    "nodejs"
+  ],
+  "author": "Atrin Hojjat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hookgrab/hg-proto/issues"
+  },
+  "homepage": "https://github.com/hookgrab/hg-proto#readme"
+}
