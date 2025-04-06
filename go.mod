@@ -1,3 +1,3 @@
-module hg.atrin.dev/proto/gen/go
+module hg.atrin.dev/proto
 
 go 1.24.0
